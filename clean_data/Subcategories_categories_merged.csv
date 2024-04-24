@@ -1,0 +1,18 @@
+id,Category_id,Subcategory_Name,Category_Name
+1,1,Ale,Beer
+2,1,Weissbier/Weizen/Wheat Beer,Beer
+3,1,Flavoured/Mixed Lager,Beer
+4,1,Standard Lager,Beer
+5,1,Sorghum,Beer
+6,1,Stout,Beer
+7,1,Non Alcoholic Beer,Beer
+8,1,Lager,Beer
+9,1,Dark Beer,Beer
+10,1,Premium Lager,Beer
+11,1,Mid-Priced Lager,Beer
+12,1,Economy Lager,Beer
+13,1,Beer,Beer
+14,2,Wine,Wine
+15,3,Spirits,Spirits
+16,4,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes
+17,5,Cider/Perry,Cider/Perry
